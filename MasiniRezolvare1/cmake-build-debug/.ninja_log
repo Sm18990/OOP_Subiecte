@@ -1,0 +1,6 @@
+# ninja log v5
+0	148	1654016580974629268	CMakeFiles/Masini.dir/RangeRover.cpp.o	8659e4118109cab9
+0	148	1654016580978629218	CMakeFiles/Masini.dir/Opel.cpp.o	a6d265fda3ad7cd8
+0	148	1654016580978629218	CMakeFiles/Masini.dir/Dacia.cpp.o	127bc0bebda9b61c
+0	180	1654016581006628870	CMakeFiles/Masini.dir/main.cpp.o	e6e4f30dc498b819
+180	215	1654016581042628422	Masini	5352ba7f79695a2a

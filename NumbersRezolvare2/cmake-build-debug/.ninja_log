@@ -1,0 +1,8 @@
+# ninja log v5
+1	278	1653986526841701688	CMakeFiles/Numbers.dir/Hexazecimal.cpp.o	f11ae5c7dd3910d
+1	285	1653986526845701643	CMakeFiles/Numbers.dir/Number.cpp.o	e96c95c29ae30f72
+1	286	1653986526849701598	CMakeFiles/Numbers.dir/Decimal.cpp.o	9a8d87ca72f83d18
+0	337	1653986526897701047	CMakeFiles/Numbers.dir/main.cpp.o	7fd88985f1dbe563
+338	387	1653986526949700449	Numbers	e2b8fbc49723ae18
+0	190	1653986598060904609	CMakeFiles/Numbers.dir/main.cpp.o	7fd88985f1dbe563
+190	246	1653986598112904041	Numbers	e2b8fbc49723ae18
