@@ -1,0 +1,11 @@
+# ninja log v5
+0	76	1654092063659656628	CMakeFiles/FormeGeometrice.dir/Forme.cpp.o	c61407c43388d0f0
+188	243	1654092063827657377	FormeGeometrice	828bc80df098971c
+0	188	1654092063771657127	CMakeFiles/FormeGeometrice.dir/main.cpp.o	7800db45f71049e1
+0	238	1654093651349565280	CMakeFiles/FormeGeometrice.dir/DreptunghiRotit.cpp.o	ba936e4da881f2a3
+1	260	1654093651373565381	CMakeFiles/FormeGeometrice.dir/Dreptunghi.cpp.o	e8552f41a096d295
+1	273	1654093651385565432	CMakeFiles/FormeGeometrice.dir/Oval.cpp.o	163c26ef80cba72d
+1	315	1654093651429565618	CMakeFiles/FormeGeometrice.dir/Cerc.cpp.o	1ff00868fc8715cf
+1	334	1654093651449565702	CMakeFiles/FormeGeometrice.dir/Forme.cpp.o	c61407c43388d0f0
+0	342	1654093651453565719	CMakeFiles/FormeGeometrice.dir/main.cpp.o	7800db45f71049e1
+342	399	1654093651509565956	FormeGeometrice	8ac347b1216df292
