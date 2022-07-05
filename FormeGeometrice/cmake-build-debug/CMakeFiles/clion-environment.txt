@@ -1,3 +1,4 @@
-ToolSet: 1.0 (local)Options: 
+ToolSet: w64 9.0 (local)@C:\Users\stefa\AppData\Local\JetBrains\Toolbox\apps\CLion\ch-0\221.5787.29\bin\mingw
+Options: 
 
-Options:-DCMAKE_MAKE_PROGRAM=/home/stefan/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/221.5591.52/bin/ninja/linux/ninja
+Options:
