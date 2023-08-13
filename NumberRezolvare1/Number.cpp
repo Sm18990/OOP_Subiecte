@@ -8,7 +8,7 @@ Number::operator std::string() {
 }
 Number::operator int() {
 	// aici ?
-	return this->number;
+	return this->number;// nu se aloca memoria asa cum trebuie, gaseste o rezolvare la problema asta. eroare de null pointer
 }
 Number& Number::operator+(Number s) {
 	Number w = Number((int)*this);
